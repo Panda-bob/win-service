@@ -13,3 +13,4 @@ win_service.exe -uninstall
 serveice_name = "windwons service name"
 monitor_exe = name.exe
 ```
+## [doc of windows service](https://docs.microsoft.com/en-us/windows/win32/services/about-services)
